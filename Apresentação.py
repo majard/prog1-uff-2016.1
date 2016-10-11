@@ -1,0 +1,5 @@
+nome = input('Qual seu nome?\n')
+idade = eval(input('Qual sua idade?\n'))
+peso = input('Qual seu peso?\n')
+nacionalidade = input('Qual sua nacionalidade?\n')
+print('Olá, meu nome é', nome, ', tenho', idade, 'anos,', peso, 'quilos e sou', nacionalidade, '.\n')
